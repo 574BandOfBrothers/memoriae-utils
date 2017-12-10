@@ -1,0 +1,296 @@
+    1  asdasdasd
+    2  sudo apt-get install terminator
+    3  ls -lrt
+    4  cd Desktop/
+    5  cd 574/
+    6  ls -lty
+    7  lslrt
+    8  ls -lrt
+    9  git clone https://github.com/574BandOfBrothers/memoriae-app
+   10  sudo apt install git
+   11  git clone https://github.com/574BandOfBrothers/memoriae-app
+   12  npm install
+   13  sudo apt install npmü
+   14  sudo apt install npm
+   15  ls -lrt
+   16  cd memoriae-app/
+   17  npm install
+   18  npm run
+   19  npm start
+   20  sudo apt-get install -y nodejs
+   21  npm start
+   22  npm bugs memoriae-app
+   23  ls -lrt
+   24  npm install
+   25  npm start
+   26  npm start -- --reset-cache
+   27  more npm start -- --reset-cache
+   28  ls -lrt
+   29  npm start
+   30  more npm start -- --reset-cache
+   31  brew update
+   32  sudo apt install linuxbrew-wrapper
+   33  brew update
+   34  i
+   35  sudo apt install iprint
+   36  brew install watchmen
+   37  brew install watchman
+   38  ~
+   39  history | tail *20
+   40  history | tail -20
+   41  ls -lrt
+   42  npm install
+   43  npm start
+   44  cd Desktop/
+   45  ls 
+   46  cd 574/
+   47  ls
+   48  cd memoriae-app/
+   49  npm start
+   50  sudo apt-get install -y nodejs
+   51  git clone https://github.com/574BandOfBrothers/memoriae-app
+   52  ls -lrt
+   53  rm memoriae-app/
+   54  rm -Rf memoriae-app/
+   55  cd ..
+   56  rm -Rf memoriae-app/
+   57  git clone https://github.com/574BandOfBrothers/memoriae-app
+   58  ls -lrt
+   59  cd memoriae-app/
+   60  npm install
+   61  npm start
+   62  npm -v
+   63  npm start
+   64  sudo sysctl -w fs.inotify.max_user_watches=10000
+   65  sudo sysctl -w fs.inotify.max_user_instances=1024
+   66  sudo sysctl -w fs.inotify.max_user_watches=12288
+   67  npm start
+   68  sudo npm start
+   69  ln -s /usr/bin/nodejs /usr/bin/node
+   70  sudo ln -s /usr/bin/nodejs /usr/bin/node
+   71  sudo npm start
+   72  npm start
+   73  ls -lrt
+   74  curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+   75  sudo apt-get install -y nodejs
+   76  sudo apt-get update
+   77  sudo apt-get install virtualbox-5.2
+   78  cd /
+   79  ls
+   80  cd home
+   81  ls -lrt
+   82  cd fatih/
+   83  ls -lrt
+   84  cd Downloads/
+   85  ls -lrt
+   86  vi /etc/apt/sources.list:
+   87  vi /etc/apt/sources.list
+   88  sudo vi /etc/apt/sources.list
+   89  sudo apt-key add oracle_vbox_2016.asc
+   90  sudo apt-get update
+   91  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+   92  wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+   93  sudo apt-get update
+   94  sudo apt-get install virtualbox-5.2
+   95  sudo apt-get install virtualbox-5.1
+   96  sudo apt-get install virtualbox-5.2
+   97  ls -lrt
+   98  sudo dpkg -i virtualbox-5.2_5.2.2-119230~Ubuntu~xenial_amd64.deb 
+   99  sudo apt-get update
+  100  sudo apt-get upgrade
+  101  sudo dpkg -i virtualbox-5.2_5.2.2-119230~Ubuntu~xenial_amd64.deb 
+  102  sudo apt-get update
+  103  sudo apt-get install libsdl-ttf2.0-0
+  104  apt-get -f install
+  105  sudo apt-get install libsdl-ttf2.0-0
+  106  apt-get -f install
+  107  sudo apt-get -f install
+  108  sudo apt-get install libsdl-ttf2.0-0
+  109  sudo dpkg -i virtualbox-5.2_5.2.2-119230~Ubuntu~xenial_amd64.deb 
+  110  ls -lrt
+  111  sudo dpkg -i virtualbox-5.2_5.2.2-119230~Ubuntu~xenial_amd64.deb 
+  112  ls -lrt
+  113  chmod a+x genymotion-2.11.0-linux_x64.bin 
+  114  ./genymotion-2.11.0-linux_x64.bin 
+  115  sudo ./genymotion-2.11.0-linux_x64.bin 
+  116  history
+  117  cd Desktop/
+  118  cd 574/
+  119  cd memoriae-app/
+  120  git branch
+  121  git pull
+  122  git status
+  123  npm install
+  124  npm start
+  125  sudo apt-get install libc6-dev-i386 lib32z1 default-jdk
+  126  sudo apt-get install libvpx4
+  127  brew tap caskroom/cask
+  128  brew cask install android-sdk
+  129  # sudo apt-get install android-tools-adb android-tools-fastboot
+  130  sudo apt-get install android-tools-adb android-tools-fastboot
+  131  cd..
+  132  cd ..
+  133  ls -lrt
+  134  cd SDK-tools3859397/
+  135  ls -lrt
+  136  ./android 
+  137  cd Desktop/574/
+  138  ls -lrt
+  139  cd memoriae-app/
+  140  ls -lrt
+  141  npm start
+  142  history
+  143  sudo apt-get install android-tools-adb android-tools-fastboot
+  144  sudo apt-get install libc6:amd64 libstdc++6:amd64
+  145  sudo apt-get install libvpx4
+  146  sudo apt-get install android-tools-adb android-tools-fastboot
+  147  sudo apt-get install libvpx4
+  148  sudo apt-get install libvpx2
+  149  sudo apt-get install libvpx5
+  150  sudo apt-get install libvpx6
+  151  sudo apt-get install libvpx4
+  152  sudo apt-get update
+  153  sudo apt-get install ia32-libs
+  154  sudo apt-get install ia32-libs-multiarch
+  155  sudo apt-get install eclipse-jdt
+  156  sudo add-apt-repository ppa:nilarimogard/webupd8
+  157  sudo apt-get install ia32-libs
+  158  sudo apt-get install ia32-libs-multiarch
+  159  sudo apt-get install libvpx4
+  160  sudo apt-get update
+  161  sudo apt-get install android-tools-adb android-tools-fastboot
+  162  cd Desktop/574/android-studio/bin/
+  163  ls -lrt
+  164  ./studio.sh 
+  165  history
+  166  sudo apt-get install android-tools-adb android-tools-fastboot
+  167  locate adb | grep bin
+  168  cd /home/fatih/Android/Sdk/
+  169  ls -lrt
+  170  npm install -g exp
+  171  sudo npm install -g exp
+  172  cd ..
+  173  ls -lrt
+  174  cd Desktop/
+  175  ls -lrt
+  176  ./ngrok 
+  177  ./ngrok update
+  178  CD 574/
+  179  ls -lrt
+  180  rm ngrok 
+  181  cd 574/
+  182  ls -ltr
+  183  cd memoriae-app/
+  184  ls -lrt
+  185  npm install
+  186  npm start
+  187  ls -ltrc
+  188  npm start
+  189  sudo apt-get install sublime-text
+  190  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+  191  sudo apt-get update
+  192  apt-get -f install
+  193  sudo apt-get -f install
+  194  sudo apt-get install sublime-text-installer
+  195  sudo apt-get -f install virtualbox-5.2
+  196  sudo apt purge virtualbox-5.2
+  197  sudo apt-get install sublime-text-installer
+  198  sudo apt purge virtualbox-5.2
+  199  sudo apt purge -f virtualbox-5.2
+  200  sudo apt get virtualbox-5.2
+  201  sudo apt-get virtualbox-5.2
+  202  sudo apt-get install virtualbox-5.2
+  203  sudo apt-get -f install virtualbox-5.2
+  204  sudo apt-get -f install libvpx4
+  205  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  206  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+  207  sudo apt-get update && sudo apt-get install yarn
+  208  subl .~
+  209  subl .
+  210  sublime .
+  211  cd /opt
+  212  ls -lrt
+  213  pwd
+  214  ls -lrt
+  215  cd /Home
+  216  cd /home
+  217  ls-lrt
+  218  ls -lrt
+  219  cd fatih/
+  220  ls -lrt
+  221  cd Desktop/
+  222  ls -lrt
+  223  mv -Rf sublime_text_3/ /opt
+  224  mv -rf sublime_text_3/ /opt
+  225  sudo mv -rf sublime_text_3/ /opt
+  226  sudo mv -R sublime_text_3/ /opt
+  227  sudo mv  sublime_text_3/ /opt
+  228  cd /opt/
+  229  ls -lrt
+  230  cd sublime_text_3/
+  231  ls -lrt
+  232  ./sublime_text 
+  233  sudo ln -s ./sublime_text /usr/bin/subl
+  234  cd /home/fatih/Desktop/574/memoriae-app/
+  235  subl .
+  236  cd /usr/bin/
+  237  ls -lrt
+  238  subl
+  239  sudo ln -s /opt/sublime_text_3/sublime_text /usr/bin/subl
+  240  ls -ltr
+  241  rm -l subl
+  242  pwd
+  243  rm -l /usr/bin/subl
+  244  ls subl
+  245  rm -rl subl
+  246  rm subl
+  247  sudo rm subl
+  248  sudo ln -s /opt/sublime_text_3/sublime_text /usr/bin/subl
+  249  subl
+  250  cd .
+  251  ls -lrt
+  252  cd /home/fatih/Desktop/574/memoriae-app/
+  253  subl .
+  254  git status
+  255  git add .
+  256  git checkout /feature/hidekeyboard
+  257  git checkout -b /feature/hidekeyboard
+  258  git checkout "/feature/hidekeyboard"
+  259  git checkout -b /feature/hidekeyboard
+  260  git branc
+  261  git branch
+  262  git checkout
+  263  git checkout -b feature/hidekeyb
+  264  git add .
+  265  git commit -m "add hide keyboard functionality to all existing screens"
+  266  git config --global user.email "fatiharaci89@gmail.com"
+  267  git commit -m "add hide keyboard functionality to all existing screens"
+  268  git checkout
+  269  git branch
+  270  git push
+  271  cd ..
+  272  ls -lrt
+  273  git clone https://github.com/574BandOfBrothers/memoriae-api
+  274  cd /home/bob/Desktop/574/memoriae-api/src/config/environments
+  275  cd memoriae-api/src/config/environments/
+  276  cp environments.json.example development.json
+  277  cp environments.json.example test.json
+  278  cp environments.json.example production.json
+  279  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6
+  280  echo "deb [ arch=amd64,arm64 ] http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
+  281  sudo apt-get update
+  282  sudo apt-get install -y mongodb-org
+  283  ls
+  284  ls -lrt
+  285  cd Desktop/
+  286  ls -lrt
+  287  cd 574/
+  288  ls -lrt
+  289  cd memoriae-ap
+  290  cd memoriae-app/
+  291  ls -lrt
+  292  npm start
+  293  history
+  294  cd ../..
+  295  ls -rlt
+  296  history > history.out
