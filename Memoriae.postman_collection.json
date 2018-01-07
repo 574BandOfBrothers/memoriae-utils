@@ -1,0 +1,258 @@
+{
+	"info": {
+		"name": "Memoriae",
+		"_postman_id": "56c9fc5d-4a13-8003-9bdb-f1b4b9de233a",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1 Login a User",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiZWNlIiwiX2lkIjoiNWEyZjEzYzI3NDFlMzkwZGE4M2IzOGMxIiwiaWF0IjoxNTEzNzI5NzA5LCJleHAiOjE1MTYzMjE3MDl9.GcQxSnjvf_--mxIWa_2_qgixxh4m9m2xx6WArUQ8M0U",
+						"disabled": true
+					},
+					{
+						"key": "",
+						"value": "",
+						"disabled": true
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"email\":\"fatih2@fatih2.com\",\n\t\"password\":\"fatih2\"\n}"
+				},
+				"url": {
+					"raw": "http://api.memoriae.online/authenticate",
+					"protocol": "http",
+					"host": [
+						"api",
+						"memoriae",
+						"online"
+					],
+					"path": [
+						"authenticate"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "2 Register a User",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiZWNlIiwiX2lkIjoiNWEyZjEzYzI3NDFlMzkwZGE4M2IzOGMxIiwiaWF0IjoxNTEzNzI5NzA5LCJleHAiOjE1MTYzMjE3MDl9.GcQxSnjvf_--mxIWa_2_qgixxh4m9m2xx6WArUQ8M0U",
+						"disabled": true
+					},
+					{
+						"key": "",
+						"value": "",
+						"disabled": true
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"fatih2\",\n\t\"email\":\"fatih2@fatih2.com\",\n\t\"password\":\"fatih2\"\n}"
+				},
+				"url": {
+					"raw": "http://api.memoriae.online/users",
+					"protocol": "http",
+					"host": [
+						"api",
+						"memoriae",
+						"online"
+					],
+					"path": [
+						"users"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "3 Get User Information",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiZWNlIiwiX2lkIjoiNWEyZjEzYzI3NDFlMzkwZGE4M2IzOGMxIiwiaWF0IjoxNTEzODUyOTI2LCJleHAiOjE1MTY0NDQ5MjZ9.VzJvCfSDl5uXX0t1WMDJOmj_72GzwKpBIGewCDMcEDk"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"email\":\"f@.\",\n\t\"password\":\"f\"\n}"
+				},
+				"url": {
+					"raw": "http://api.memoriae.online/me/",
+					"protocol": "http",
+					"host": [
+						"api",
+						"memoriae",
+						"online"
+					],
+					"path": [
+						"me",
+						""
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "4 Get List of Users",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearar eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiZmF0aWgyIiwiX2lkIjoiNWEzYmVlMWE5NThiZTMyNGUzNzgzMWZkIiwiaWF0IjoxNTEzODc3Mjc0LCJleHAiOjE1MTY0NjkyNzR9.18n3F9rykLarG9xTB0IHen0gYh96JXiA23caaAluPRE"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"email\":\"fatiharaci89@msn.com\",\n\t\"password\":\"Sam3foxa9\"\n}"
+				},
+				"url": {
+					"raw": "http://api.memoriae.online/users",
+					"protocol": "http",
+					"host": [
+						"api",
+						"memoriae",
+						"online"
+					],
+					"path": [
+						"users"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "5 Get User Stories",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiZmF0aWgyIiwiX2lkIjoiNWEzYmVlMWE5NThiZTMyNGUzNzgzMWZkIiwiaWF0IjoxNTEzODc3Mjc0LCJleHAiOjE1MTY0NjkyNzR9.18n3F9rykLarG9xTB0IHen0gYh96JXiA23caaAluPRE"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"email\":\"fatiharaci89@msn.com\",\n\t\"password\":\"Sam3foxa9\"\n}"
+				},
+				"url": {
+					"raw": "http://api.memoriae.online/me/stories",
+					"protocol": "http",
+					"host": [
+						"api",
+						"memoriae",
+						"online"
+					],
+					"path": [
+						"me",
+						"stories"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "6 Get a Pics of Story",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiZiIsIl9pZCI6IjVhMjljYTBmNzQxZTM5MGRhODNiMzg4OSIsImlhdCI6MTUxMzczMTEwNywiZXhwIjoxNTE2MzIzMTA3fQ.fEAsgyosUC1kqP6gcZ2E8Rz_KNg32J8Pw8p2j2S2Dyo"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"email\":\"f@.\",\n\t\"password\":\"f\"\n}"
+				},
+				"url": {
+					"raw": "http://api.memoriae.online/uploads/request",
+					"protocol": "http",
+					"host": [
+						"api",
+						"memoriae",
+						"online"
+					],
+					"path": [
+						"uploads",
+						"request"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "7 Search Stories",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "https://api.memoriae.online/search?query=${fatih}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"memoriae",
+						"online"
+					],
+					"path": [
+						"search"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "{fatih}",
+							"equals": true
+						}
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
